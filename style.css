@@ -1,12 +1,3 @@
-<![CDATA[/*
------------------------------------------------
-body#layout ul{list-style-type:none;list-style:none}
-body#layout ul li{list-style-type:none;list-style:none}
-body#layout #headerbwrap {height:auto;}
-body#layout #content {}
-body#layout #slider {display:none;}
-body#layout #myCarousel {display:none;}
-
 body,html
 {
 color:#fff !important;
@@ -1303,5 +1294,3 @@ h2.date-header {
   	font-size: 18px;
 	text-align:center;
 }
-
-]]>
