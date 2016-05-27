@@ -1,0 +1,2 @@
+# myblog
+Repository Blog Syahrulzzadie
